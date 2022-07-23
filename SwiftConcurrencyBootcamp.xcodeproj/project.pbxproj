@@ -12,6 +12,7 @@
 		22687841288C299C00FA9CAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22687840288C299C00FA9CAE /* Assets.xcassets */; };
 		22687844288C299C00FA9CAE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22687843288C299C00FA9CAE /* Preview Assets.xcassets */; };
 		2268784B288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2268784A288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift */; };
+		2268784D288C311B00FA9CAE /* DownloanImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2268784C288C311B00FA9CAE /* DownloanImageAsync.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		22687840288C299C00FA9CAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22687843288C299C00FA9CAE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2268784A288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
+		2268784C288C311B00FA9CAE /* DownloanImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloanImageAsync.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				2268783C288C299700FA9CAE /* SwiftConcurrencyBootcampApp.swift */,
 				2268783E288C299700FA9CAE /* ContentView.swift */,
 				2268784A288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift */,
+				2268784C288C311B00FA9CAE /* DownloanImageAsync.swift */,
 				22687840288C299C00FA9CAE /* Assets.xcassets */,
 				22687842288C299C00FA9CAE /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				2268784B288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				2268783F288C299700FA9CAE /* ContentView.swift in Sources */,
+				2268784D288C311B00FA9CAE /* DownloanImageAsync.swift in Sources */,
 				2268783D288C299700FA9CAE /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
