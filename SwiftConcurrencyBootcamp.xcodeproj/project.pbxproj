@@ -14,6 +14,7 @@
 		2268784B288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2268784A288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift */; };
 		2268784D288C311B00FA9CAE /* DownloanImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2268784C288C311B00FA9CAE /* DownloanImageAsync.swift */; };
 		2268784F288C3EE300FA9CAE /* AsyncAwaitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2268784E288C3EE300FA9CAE /* AsyncAwaitBootcamp.swift */; };
+		22F92AA7288D04D9008F6D9C /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F92AA6288D04D9008F6D9C /* TaskBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		2268784A288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
 		2268784C288C311B00FA9CAE /* DownloanImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloanImageAsync.swift; sourceTree = "<group>"; };
 		2268784E288C3EE300FA9CAE /* AsyncAwaitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootcamp.swift; sourceTree = "<group>"; };
+		22F92AA6288D04D9008F6D9C /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				2268784A288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift */,
 				2268784C288C311B00FA9CAE /* DownloanImageAsync.swift */,
 				2268784E288C3EE300FA9CAE /* AsyncAwaitBootcamp.swift */,
+				22F92AA6288D04D9008F6D9C /* TaskBootcamp.swift */,
 				22687840288C299C00FA9CAE /* Assets.xcassets */,
 				22687842288C299C00FA9CAE /* Preview Content */,
 			);
@@ -149,6 +152,7 @@
 				2268784B288C2B4900FA9CAE /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				2268783F288C299700FA9CAE /* ContentView.swift in Sources */,
 				2268784D288C311B00FA9CAE /* DownloanImageAsync.swift in Sources */,
+				22F92AA7288D04D9008F6D9C /* TaskBootcamp.swift in Sources */,
 				2268784F288C3EE300FA9CAE /* AsyncAwaitBootcamp.swift in Sources */,
 				2268783D288C299700FA9CAE /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
