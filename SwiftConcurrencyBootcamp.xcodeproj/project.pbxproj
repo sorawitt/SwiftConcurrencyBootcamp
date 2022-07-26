@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		225DB62B28901E0900DFB013 /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 225DB62A28901E0900DFB013 /* StructClassActorBootcamp.swift */; };
 		2268783D288C299700FA9CAE /* SwiftConcurrencyBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2268783C288C299700FA9CAE /* SwiftConcurrencyBootcampApp.swift */; };
 		2268783F288C299700FA9CAE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2268783E288C299700FA9CAE /* ContentView.swift */; };
 		22687841288C299C00FA9CAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22687840288C299C00FA9CAE /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		225DB62A28901E0900DFB013 /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
 		22687839288C299700FA9CAE /* SwiftConcurrencyBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrencyBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2268783C288C299700FA9CAE /* SwiftConcurrencyBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyBootcampApp.swift; sourceTree = "<group>"; };
 		2268783E288C299700FA9CAE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				22F92AA8288D8A8C008F6D9C /* AsyncLetBootcamp.swift */,
 				226A3E02288EBB35007A1D06 /* TaskGroupBootcamp.swift */,
 				226A3E04288EC1C8007A1D06 /* CheckedContinuationsBootcamp.swift */,
+				225DB62A28901E0900DFB013 /* StructClassActorBootcamp.swift */,
 				22687840288C299C00FA9CAE /* Assets.xcassets */,
 				22687842288C299C00FA9CAE /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 				2268783F288C299700FA9CAE /* ContentView.swift in Sources */,
 				2268784D288C311B00FA9CAE /* DownloanImageAsync.swift in Sources */,
 				22F92AA7288D04D9008F6D9C /* TaskBootcamp.swift in Sources */,
+				225DB62B28901E0900DFB013 /* StructClassActorBootcamp.swift in Sources */,
 				22F92AA9288D8A8C008F6D9C /* AsyncLetBootcamp.swift in Sources */,
 				2268784F288C3EE300FA9CAE /* AsyncAwaitBootcamp.swift in Sources */,
 				226A3E05288EC1C8007A1D06 /* CheckedContinuationsBootcamp.swift in Sources */,
